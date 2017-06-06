@@ -10,5 +10,5 @@
 #Delete the student
 #Details
 #List all the students
-#Click on username to chnage the password
+#Click on username to change the password
 
