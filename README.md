@@ -1,5 +1,5 @@
 # Soding
-#The project is the assignment assigned to me from Soding.
+
 #Workflow:
 
 #Register
